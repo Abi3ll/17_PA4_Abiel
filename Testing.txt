@@ -1,8 +1,25 @@
+"Updated by" 06_lohxinzhi
+
 Unit Testing
+
 -What is unit Testing?
--Unit Testing is conducted by ______________
+ developer is developing a loop
+
+-Unit Testing is conducted by 
+the developer using development tools in his IDE. 
+
 -It is type of (blackbox/whitebox testing)
+ either black box or white box testing 
+If you are testing it just like an outsider would make the calls 
+to only your public facing API, then it is blackbox.
+
 Integration Testing
+
 -What is Integration Testing?
--Integration Testing is conducted by ______________
+ Combined and tested as a group.
+
+-Integration Testing is conducted by
+ test integration between software modlues
+
 -It is type of (blackbox/whitebox testing)
+ either blackbox or white box testing
